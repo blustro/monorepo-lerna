@@ -7,6 +7,9 @@
   "publishConfig": {
     "@blustro:registry": "https://npm.pkg.github.com/blustro"
   },
+  "dependencies": {
+    "@blustro/date-logic-bruno1": "^1.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
